@@ -1,14 +1,11 @@
-# Copyright (C) @TheSmartBisnu
-# Channel: https://t.me/itsSmartDev
-
 import re
 
-API_ID = "12345678" # Your Telegram API ID
-API_HASH = "12345678abcd" # Your Telegram API Hash
-BOT_TOKEN = "7267436522:XXXXXXXXXXXXXXXXXX" # Your Bot Token
+API_ID = "30422005" # Your Telegram API ID
+API_HASH = "5170ded206641d73215baf40175a6924" # Your Telegram API Hash
+BOT_TOKEN = "8672398689:AAGxtmvvlwlaTC7Dk1i0hH0w6KoFeQq1WcQ" # Your Bot Token
 
 # MongoDB connection URI
-MONGO_URI = "your_mongodb_url"
+MONGO_URI = "mongodb+srv://shnwazdevv:dev@dev.vj2pnfz.mongodb.net/?appName=dev"
 
 DEFAULT_WARNING_LIMIT = 3
 DEFAULT_PUNISHMENT = "mute" # Options: "mute", "ban"
